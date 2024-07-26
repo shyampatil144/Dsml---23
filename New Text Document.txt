@@ -3,5 +3,7 @@ print(I want to add lines)
 print(Extra note which needed)
 print(This is from bug fix)
 print(some extra bug fixes)
+print(this is from branch A)
 print(this is from branch B)
+
 
